@@ -1,0 +1,10 @@
+S-SINGLE RESPONSIBILITY PRINCIPAL
+The Single Responsibility Principle (SRP) is one of the five SOLID principles in Low-Level Design (LLD).
+
+It states 2 key principles.
+1)Your class or method should have only one reason to change.
+2)Your class or method should have only one responsibility to take care of.
+
+- Improves Maintainability: If a class has multiple responsibilities, modifying one part might unintentionally affect another.
+- Enhances Readability: Code is easier to understand when each class has a clear, singular purpose.
+- Reduces Coupling: Helps in keeping different functionalities independent, making the system more flexible.
